@@ -1,4 +1,4 @@
 # Demo
 This is the demo repository
 <br>
-Author: Rahat
+Author: Rahat Sarker
